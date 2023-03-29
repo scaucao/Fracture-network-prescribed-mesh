@@ -1,5 +1,5 @@
 # Fracture_network-prescribed-mesh
-This repository contains the initial mesh file for the numerical example: "Example 3: Flow through a 2D porous media with fracture network" of the work:
+This repository contains the mesh file for the numerical example: "Example 3: Flow through a 2D porous media with fracture network" of the work:
 
 S. Caucao, G.N. Gatica, and L.F. Gatica: A Banach spaces-based mixed finite element method for the stationary convective Brinkman-Forchheimer problem. Preprint 2023-10, Centro de Investigación en Ingeniería Matemática (CI²MA), Universidad de Concepción, (2023). 
 
