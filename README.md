@@ -7,7 +7,7 @@ Available in: <a href="https://ci2ma.udec.cl/publicaciones/prepublicaciones/prep
 
 To load the mesh in FreeFem++, use the code:
 
-mesh Th = readmesh("Fracture-mesh.msh");
+mesh Th = readmesh("Fracture_network-mesh.msh");
 
 
 Labels setting:
