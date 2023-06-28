@@ -18,8 +18,6 @@ Labels setting:
 
 1: bottom boundary
 
-2: right boundary 
-
-3: top boundary
+22: right and top boundaries
 
 4: left boundary
